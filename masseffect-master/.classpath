@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="massEffectGame/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="massEffectGame/src/database/Postgres Jar/postgresql-42.2.9.jar"/>
+	<classpathentry kind="output" path="massEffectGame/bin"/>
+</classpath>

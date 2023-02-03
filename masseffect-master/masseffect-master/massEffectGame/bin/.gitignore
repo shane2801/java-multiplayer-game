@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+/application/
+/audio/
+/database/
+/guiItems/
+/networking/
+/playable/
+/propObjects/
+/sceneryObjects/
+/usables/
+/view/
+=======
+/view/
+/audio/
+/database/
+>>>>>>> refs/remotes/origin/Audio2
